@@ -2,7 +2,7 @@
 <Patch>
 
 	<Operation Class="PatchOperationAdd"> <!-- Add minifiedDef tag -->
-		<xpath>/ThingDefs/ThingDef[defName = "Sandbags"]</xpath>
+		<xpath>/Defs/ThingDef[defName = "Sandbags"]</xpath>
 		<value>
 			<minifiedDef>MinifiedFurniture</minifiedDef>
 		</value>
