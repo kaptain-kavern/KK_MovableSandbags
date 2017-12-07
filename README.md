@@ -1,3 +1,4 @@
+[![Version](https://img.shields.io/badge/Rimworld-B18-red.svg)](https://ludeon.com/forums/index.php?topic=25325)          [![ModCheck](https://img.shields.io/badge/ModCheck-1.5-blue.svg)](https://ludeon.com/forums/index.php?topic=36534)
 # Movable Sand bags
 
 Just make sandbags movable.
