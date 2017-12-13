@@ -1,7 +1,7 @@
 # [![Version](https://img.shields.io/badge/Rimworld-B18-orange.svg?style=for-the-badge)](https://ludeon.com/forums/index.php?topic=25325)          [![ModCheck](https://img.shields.io/badge/ModCheck-1.5-blue.svg?style=for-the-badge)](https://ludeon.com/forums/index.php?topic=36534)          [![NinjaSync'ed](https://img.shields.io/badge/Ninja-Sync'ed-red.svg?style=for-the-badge)](http://www.modsync.ninja/#one)
 
 # Movable Sand bags
-
+<p align="center"><img src="https://raw.githubusercontent.com/kaptain-kavern/KK_MovableSandbags/master/About/Preview.png" alt="Preview"/></p>
 Just make sandbags movable.
 
 ___________
