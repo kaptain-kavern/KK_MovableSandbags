@@ -1,7 +1,7 @@
-# [![GitHub release](https://img.shields.io/github/release/kaptain-kavern/KK_MovableSandbags.svg?style=for-the-badge)](https://github.com/kaptain-kavern/KK_MovableSandbags/releases/latest) [![Aimed at](https://img.shields.io/badge/For%20Rimworld-B18-red.svg?style=for-the-badge)]() [![Github Releases](https://img.shields.io/github/downloads/kaptain-kavern/KK_MovableSandbags/total.svg?style=for-the-badge)](https://github.com/kaptain-kavern/KK_MovableSandbags/releases/latest)          [![ModCheck](https://img.shields.io/badge/ModCheck-1.5-blue.svg?style=for-the-badge)](https://ludeon.com/forums/index.php?topic=36534)          [![NinjaSync'ed](https://img.shields.io/badge/Ninja-Sync'ed-red.svg?style=for-the-badge)](http://www.modsync.ninja/#one)
+# [![GitHub release](https://img.shields.io/github/release/kaptain-kavern/KK_MovableSandbags.svg?style=for-the-badge)](https://github.com/kaptain-kavern/KK_MovableSandbags/releases/latest) [![Aimed at](https://img.shields.io/badge/For%20Rimworld-B18-red.svg?style=for-the-badge)]()   [![ModCheck](https://img.shields.io/badge/ModCheck-1.5-blue.svg?style=for-the-badge)](https://ludeon.com/forums/index.php?topic=36534)  [![NinjaSync'ed](https://img.shields.io/badge/Ninja-Sync'ed-red.svg?style=for-the-badge)](http://www.modsync.ninja/#one)    [![Github Releases](https://img.shields.io/github/downloads/kaptain-kavern/KK_MovableSandbags/total.svg?style=for-the-badge)](https://github.com/kaptain-kavern/KK_MovableSandbags/releases/latest)
 
 # Movable Sand bags
-<p align="center"><img src="https://raw.githubusercontent.com/kaptain-kavern/KK_MovableSandbags/master/About/Preview.png" alt="Preview"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/kaptain-kavern/KK_MovableSandbags/master/About/preview.png" alt="Preview"/></p>
 Just make sandbags movable.
 
 ___________
