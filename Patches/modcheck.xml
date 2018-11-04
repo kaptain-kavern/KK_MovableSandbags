@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Patch>
-	
+
   <!--========== Check for incompatible mods Patch ==========-->
-  
+
 	<Operation Class="PatchOperationSequence">
 	    <success>Always</success>
 		<operations>
 			<li Class="ModCheck.isModLoaded">
-				<modName>[RF] Fertile Fields [b18]</modName>
+				<modName>[RF] Fertile Fields [1.0]</modName>
 				<yourMod>Movable Sandbags</yourMod>
 				<incompatible>true</incompatible>
-				<errorOnFail>true</errorOnFail>
-				<customMessageFail>Movable Sandbags is not needed as you are already using Rainbeau's Fertile Fields mod, in which sandbags are already movable. Please deactivate Movable Sandbags</customMessageFail>
+				<ErrorFail>true</ErrorFail>
+				<MessageFail>Movable Sandbags is not needed as you are already using Rainbeau's Fertile Fields mod, in which sandbags are already movable. Please deactivate Movable Sandbags</MessageFail>
 			</li>
 		</operations>
-	</Operation>	
+	</Operation>
 
 
 </Patch>

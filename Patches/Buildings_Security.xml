@@ -11,7 +11,16 @@
 			<li Class="PatchOperationAdd">
 				<xpath>Defs/ThingDef[defName = "Sandbags"]</xpath>
 				<value>
-					<minifiedDef>MinifiedFurniture</minifiedDef>
+					<minifiedDef>MinifiedThing</minifiedDef>
+					<thingCategories>
+			      <li>BuildingsSecurity</li>
+			    </thingCategories>
+				</value>
+			</li>
+			<li Class="PatchOperationAdd">
+				<xpath>Defs/ThingDef[defName = "Sandbags"]/statBases</xpath>
+				<value>
+						<Mass>25</Mass>
 				</value>
 			</li>
 		</operations>
